@@ -47,12 +47,6 @@ python netscanner.py [-O OUTPUT_PATH]
 
 ## Example Output
 ```
-000000000                         BBBBBBBBBBBBBBBBB   BBBBBBBBBBBBBBBBB     iiii       888888888     
-00:::::::::00                       B::::::::::::::::B  B::::::::::::::::B   i::::i    88:::::::::88   
-00:::::::::::::00                     B::::::BBBBBB:::::B B::::::BBBBBB:::::B   iiii   88:::::::::::::88 
-0:::::::000:::::::0                    BB:::::B     B:::::BBB:::::B     B:::::B        8::::::88888::::::8
-0::::::0   0::::::0xxxxxxx      xxxxxxx  B::::B     B:::::B  B::::B     B:::::Biiiiiii 8:::::8     8:::::8
-
 Netscanner by 0xBBi8
 --------------------------------------------------
 Public IP  : 192.168.1.1
