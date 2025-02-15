@@ -99,7 +99,7 @@ def main():
 
     public_ip = get_public_ip()
     local_ip = get_local_ip()
-    subnet = get_subnet_mac("en8")  # Specify the correct interface (you showed it was en8)
+    subnet = get_subnet_mac("en8")  # Specify the correct interface
 
     output_data = []
     output_data.append("--------------------------------------------------")
